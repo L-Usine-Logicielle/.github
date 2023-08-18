@@ -4,7 +4,7 @@ Association qui a pour but de développer, promouvoir, soutenir le développemen
 
 ## Historique
 
-## Membres
-🙋‍♀️
+## 🙋‍♀️ Membres
+
 
 ## Credits
