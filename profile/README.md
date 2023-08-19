@@ -11,9 +11,9 @@ La fondation de cette association loi de 1901 fait suite à la création d’un 
 
 ## 🙋 Membres
 
-* [Perfeito Lucas](https://github.com/lucasperfeito)
 * [Joly Andréa](https://github.com/Andreaj42)
 * [Marcoux Antoine](https://github.com/AntoineM314)
+* [Perfeito Lucas](https://github.com/lucasperfeito)
 
 <!--
 ## Credits
