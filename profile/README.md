@@ -1,6 +1,6 @@
-# L'Usine Logicielle 
+# L'Usine Logicielle 🏭 
 
-L’Usine Logicielle 🏭 est une association passionnée par le monde du développement logiciel et dédiée à la promotion et au soutien du logiciel libre.
+L’Usine Logicielle est une association passionnée par le monde du développement logiciel et dédiée à la promotion et au soutien du logiciel libre.
 Nous sommes engagés à catalyser le développement, la promotion et l’adoption du logiciel libre. Convaincus que le partage et la collaboration sont les fondements d’une innovation véritable, nous travaillons main dans la main pour créer des solutions logicielles accessibles à tous, favorisant ainsi l’essor d’une communauté solidaire et épanouie.
 
 
