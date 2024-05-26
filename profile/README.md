@@ -9,13 +9,12 @@ Nous sommes engagés à catalyser le développement, la promotion et l’adoptio
 La fondation de cette association loi de 1901 fait suite au constat de la forte demande de formation lié au développement logiciel.
 
 
-## 🙋 Membre
-
-* [Marcoux Antoine](https://github.com/AntoineM314)
 
 
 <!--
 ## Credits
+## 🙋 Membre
+* [Marcoux Antoine](https://github.com/AntoineM314)
 * [Joly Andréa](https://github.com/Andreaj42)
 * [Perfeito Lucas](https://github.com/lucasperfeito)
 à la création d’un script astucieux notifiant les étudiants lors de l’ajout d’une nouvelle note sur le site [Moodle](https://moodle.org) de l’école.
