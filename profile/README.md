@@ -6,15 +6,17 @@ Nous sommes engagés à catalyser le développement, la promotion et l’adoptio
 
 ## 💡 Historique
 
-La fondation de cette association loi de 1901 fait suite à la création d’un script astucieux notifiant les étudiants lors de l’ajout d’une nouvelle note sur le site [Moodle](https://moodle.org) de l’école.
+La fondation de cette association loi de 1901 fait suite au constat de la forte demande de formation lié au développement logiciel.
 
 
-## 🙋 Membres
+## 🙋 Membre
 
-* [Joly Andréa](https://github.com/Andreaj42)
 * [Marcoux Antoine](https://github.com/AntoineM314)
-* [Perfeito Lucas](https://github.com/lucasperfeito)
+
 
 <!--
 ## Credits
+* [Joly Andréa](https://github.com/Andreaj42)
+* [Perfeito Lucas](https://github.com/lucasperfeito)
+à la création d’un script astucieux notifiant les étudiants lors de l’ajout d’une nouvelle note sur le site [Moodle](https://moodle.org) de l’école.
 -->
