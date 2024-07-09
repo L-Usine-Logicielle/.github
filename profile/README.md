@@ -5,17 +5,12 @@ Nous sommes engagés à catalyser le développement, la promotion et l’adoptio
 
 
 ## 💡 Historique
-
 La fondation de cette association loi de 1901 fait suite au constat de la forte demande de formation lié au développement logiciel.
 
+## :white_check_mark: Projets
+* Système de notification par scrapping d'un site [Moodle](https://moodle.org)
 
-
-
-<!--
-## Credits
-## 🙋 Membre
-* [Marcoux Antoine](https://github.com/AntoineM314)
+## 🙋 Membres
 * [Joly Andréa](https://github.com/Andreaj42)
+* [Marcoux Antoine](https://github.com/AntoineM314)
 * [Perfeito Lucas](https://github.com/lucasperfeito)
-à la création d’un script astucieux notifiant les étudiants lors de l’ajout d’une nouvelle note sur le site [Moodle](https://moodle.org) de l’école.
--->
